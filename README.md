@@ -1,3 +1,3 @@
 # predict_sklearn
-Develop a Decision Tree Classifier using sklearn
+Develop a predictive churn model using sklearn
 In this Jupyter notebook, I present a sophisticated AI model designed to identify and quantify the key factors contributing to customer churn in subscription-based services. This model demonstrates my adeptness in leveraging advanced machine learning techniques and data analytics to solve real-world business problems. By meticulously experimenting with various machine learning algorithms, I have developed a model that not only predicts churn with high accuracy but also provides insightful interpretations of the underlying causes. The results shown were implemented to reduce churn by > 15% This project demonstrates my proficiency in Python programming, deep understanding of predictive modeling, and ability to translate complex data insights into actionable business strategies.
